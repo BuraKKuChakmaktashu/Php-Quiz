@@ -1,0 +1,68 @@
+body
+{
+	
+	font-family: arial;
+	font-size: 16px;
+	line-height: 1.6cm;
+}
+li
+{
+	list-style:none;
+}
+a
+{
+	
+	text-decoration:none;
+	font-family: arial;
+	font-size: 30px;
+	
+}
+.container
+{
+	width: 60%;
+	margin:0 auto;
+	overflow: auto;
+	
+	
+	
+}
+header
+{
+	
+	border-bottom: 3px black solid;
+	
+	
+}
+footer
+{
+	
+	border-top: 3px black solid;
+	text-align:center;
+	
+	
+	
+}
+main
+{
+
+	padding-bottom:1px;
+}
+a.start
+{
+	display: inline-block;
+	color:black;
+	background:lightgray;
+	border:1px line black;
+	padding:6px 13px;
+	margin-bottom: 15px;
+	
+}
+.question
+{
+	color:black;
+	background:lightgray;
+	border:#ccc dotted 1px;
+	padding:10px;
+	margin:20px 0 10px 0;
+	
+}
